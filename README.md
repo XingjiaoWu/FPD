@@ -6,7 +6,7 @@
 FPD is the first manually annotated dataset that focuses on fine-grained segmentation, which consists of 66 non-Manhattan layout documents (shown in Fig.~\ref{fig:fpd}). In the labeling process, we use point labeling and polygon labeling, and the label export style is ``cvat for images 1.1". The data comes from the pages of complex Chinese and English magazines, and the page size is not fixed.
 
 
-For more information, please consult our paper [here](https://doi.org/10.1016/j.ipm.2023.103339).
+For more information, please consult our paper [here]().
 
 
 
