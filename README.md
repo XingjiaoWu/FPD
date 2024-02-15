@@ -18,5 +18,12 @@ If you would like to download the FPD dataset, please send email to jc@fudan.edu
 ## Citation
 If you use the FPD data please cite:
 ```
-
+@inproceedings{ma2023image,
+  title={Image Layer Modeling for Complex Document Layout Generation},
+  author={Ma, Tianlong and Wu, Xingjiao and Du, Xiangcheng and Wang, Yanlong and Jin, Cheng},
+  booktitle={2023 IEEE International Conference on Multimedia and Expo (ICME)},
+  pages={2261--2266},
+  year={2023},
+  organization={IEEE}
+}
 
